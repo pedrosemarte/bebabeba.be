@@ -1,0 +1,4897 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+          height: 100vh;
+          font-family: 'Inter', sans-serif;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            padding: 20px;
+
+        }
+        .container1 {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-radius: 25px;
+            padding: 20px;
+            box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+            background-color: white;
+            margin-left: 10%;
+            margin-right: 10%;
+       }
+        .box {
+              border-radius: 25px;
+              margin: 10px;
+              padding: 20px;
+              box-shadow: 0px 0px 20px rgba(0,0,0,0.1);
+        }
+        table {
+              width: 100%;
+              border-collapse: separate;
+              border-spacing: 0 15px;
+        }
+        th {
+              text-align: left;
+        }
+        td:nth-child(2) {
+              text-align: right;
+        }
+        p {
+          text-align: center;
+        }
+        .comentario {
+          padding: 10px;
+          text-align: center;
+          width: 70%;
+          margin: auto;
+          font-style: italic;
+      }
+    </style>
+
+</head>
+<body>
+
+<!--                                                              
+ ▄█▀▀▀█▄████▀▀▀██▄  ▄▄█▀▀██▄ ███▀▀██▀▀███████▀███▀▀▀██████▀   ▀██▀
+▄██    ▀█ ██   ▀██▄██▀    ▀██▄▀   ██   ▀█ ██   ██    ▀█ ███   ▄█  
+▀███▄     ██   ▄████▀      ▀██    ██      ██   ██   █    ███ ▄█   
+  ▀█████▄ ███████ ██        ██    ██      ██   ██▀▀██     ████    
+▄     ▀██ ██      ██▄      ▄██    ██      ██   ██   █      ██     
+██     ██ ██      ▀██▄    ▄██▀    ██      ██   ██          ██     
+█▀█████▀▄████▄      ▀▀████▀▀    ▄████▄  ▄████▄████▄      ▄████▄                                                                  
+-->
+
+  <h1 style="text-align: center;">
+      <span style="font-size:20px;">Plataforma:</span><br>
+      <span style="color:#1ED760; font-size:40px;">SPOTIFY</span><span style="color:#febe00; font-size:20px;">(667)</span>
+  </h1>
+
+<!-- DIVISÃO: MOBILE FREE -->
+   <div class="container1">
+    <p class="text">sem observações</p>
+   </div>
+
+
+    <div class="container">
+        <div class="box">
+            <p>SPOTIFY MOBILE<br>(FREE VERS.)</p>
+            <table>
+
+                <!-- GERAIS -->
+
+                <tr>
+                <th><span style="font-size: 20px;">Gerais</span></th>
+                </tr>
+
+                <tr>
+            <td>Nota Geral</td>
+            <td style="color:#000000;"><strong>-</strong></td>
+                </tr>
+  
+                <tr>
+            <td>Vale a pena?</td>
+            <td style="color:#000000;"><strong>-</strong></td>
+                </tr>
+
+                <tr>
+            <td>Design Geral</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Velocidade do App (variável)</td>
+            <td>-</td>
+                </tr>
+
+              <tr>
+            <td>Integração</td>
+            <td>-</td>
+              </tr>
+
+        <tr>
+        <tr>
+
+                <!-- COMPATIBILIDADE -->
+
+                <tr>
+                <tr>
+                    <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                    </tr>
+    
+                    <tr>
+                <td>Mobile App?</td>
+                <td>-</td>
+                    </tr>
+      
+                    <tr>
+                <td>Plataformas</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Desktop App?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Plataformas</td>
+                <td>-</td>
+                    </tr>
+
+                <!-- FUNÇÕES -->
+
+                <tr>
+                <tr>
+                    <th><span style="font-size: 20px;">Funções</span></th>
+                    </tr>
+    
+                    <tr>
+                <td>É possível escutar em 2º plano?</td>
+                <td>-</td>
+                    </tr>
+      
+                    <tr>
+                <td>É possível mover o slider de tempo da música?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível pular uma música?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Limite de pulos?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível retroceder uma música?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível baixar músicas?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível escolher a música a ser escutada?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível escutar sua fila em ordem?	</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível escutar sua fila em ordem aleatória?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível ver MV (Music Video) dentro do App?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível criar uma playlist?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível acessar o merchan do artista dentro do App?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível ver as futuras turnês do artista dentro do App?</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível ver a letra da música dentro do App?	</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>É possível ver a tradução da letra da música dentro do App?</td>
+                <td>-</td>
+                    </tr>
+
+                <!-- ANÚNCIOS -->
+
+                <tr>
+                <tr>
+                    <th><span style="font-size: 20px;">Anúncios</span></th>
+                </tr>
+                
+                    <tr>
+                <td>Anúncios entre as músicas</td>
+                <td>-</td>
+                    </tr>
+
+                    <tr>
+                <td>Frequência</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Duração média</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Duração para pular</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Anúncio Pop-up</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Anúncio interstical</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Anúncio após selecionar música</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Anúncio de banner</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Anúncio de recompensa</td>
+                <td>-</td>
+                    </tr>
+        
+                    <tr>
+                <td>Duração dos anúncios de recompensa</td>
+                <td>-</td>
+                    </tr>
+    
+                    <tr>
+                <td>Tipo de anúncio</td>
+                <td>-</td>
+                    </tr>
+                    
+            <!-- FUNÇÕES EXTRAS -->
+          
+            <tr>
+                <tr>
+                    <th><span style="font-size: 20px;">Funções Extras</span></th>
+                </tr>
+    
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+
+                <tr>
+                    <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+                </tr>
+    
+                <td style="display: flex; justify-content: center;"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7cIn67LEvk16v6komC8znS?utm_source=generator" width="100%" height="250" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></td>
+
+            </table>
+        </div>
+
+<!-- DIVISÃO: DESKTOP FREE -->
+
+    <div class="box">
+        <p>SPOTIFY FOR DESKTOP<br>(FREE VERS.)</p>
+        <table>
+
+            <!-- GERAIS -->
+
+            <tr>
+            <th><span style="font-size: 20px;">Gerais</span></th>
+            </tr>
+
+            <tr>
+        <td>Nota Geral</td>
+        <td style="color:#000000;"><strong>-</strong></td>
+            </tr>
+
+            <tr>
+        <td>Vale a pena?</td>
+        <td style="color:#000000;"><strong>-</strong></td>
+            </tr>
+
+            <tr>
+        <td>Design Geral</td>
+        <td>-</td>
+            </tr>
+
+            <tr>
+        <td>Velocidade do App (variável)</td>
+        <td>-</td>
+            </tr>
+
+          <tr>
+        <td>Integração</td>
+        <td>-</td>
+          </tr>
+
+        <tr>
+        <tr>
+
+            <!-- COMPATIBILIDADE -->
+
+            <tr>
+            <tr>
+                <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                </tr>
+
+                <tr>
+            <td>Mobile App?</td>
+            <td>-</td>
+                </tr>
+  
+                <tr>
+            <td>Plataformas</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Desktop App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Plataformas</td>
+            <td>-</td>
+                </tr>
+
+            <!-- FUNÇÕES -->
+
+            <tr>
+            <tr>
+                <th><span style="font-size: 20px;">Funções</span></th>
+                </tr>
+
+                <tr>
+            <td>É possível escutar em 2º plano?</td>
+            <td>-</td>
+                </tr>
+  
+                <tr>
+            <td>É possível mover o slider de tempo da música?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível pular uma música?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Limite de pulos?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível retroceder uma música?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível baixar músicas?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível escolher a música a ser escutada?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível escutar sua fila em ordem?	</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível escutar sua fila em ordem aleatória?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver MV (Music Video) dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível criar uma playlist?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível acessar o merchan do artista dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver as futuras turnês do artista dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver a letra da música dentro do App?	</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver a tradução da letra da música dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+            <!-- ANÚNCIOS -->
+          
+            <tr>
+            <tr>
+                <th><span style="font-size: 20px;">Anúncios</span></th>
+            </tr>
+
+                <tr>
+            <td>Anúncios entre as músicas</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Frequência</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Duração média</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Duração para pular</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio Pop-up</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio interstical</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio após selecionar música</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio de banner</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio de recompensa</td>
+            <td>-</td>
+                </tr>
+    
+                <tr>
+            <td>Duração dos anúncios de recompensa</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Tipo de anúncio</td>
+            <td>-</td>
+                </tr>
+
+            <!-- FUNÇÕES EXTRAS -->
+          
+            <tr>
+                <tr>
+                    <th><span style="font-size: 20px;">Funções Extras</span></th>
+                </tr>
+    
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+
+                <tr>
+                    <th><span style="font-size: 20px;">Emblemed - 2</span></th>
+                </tr>
+
+                <td style="display: flex; justify-content: center;"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7cIn67LEvk16v6komC8znS?utm_source=generator&theme=0" width="100%" height="250" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></td>
+
+        </table>
+    </div>
+
+<!-- DIVISÃO: PREMIUM -->
+
+    <div class="box">
+        <p>SPOTIFY PREMIUM<br>(MOBILE/DESKTOP)</p>
+        <table>
+
+            <!-- GERAIS -->
+
+            <tr>
+            <th><span style="font-size: 20px;">Gerais</span></th>
+            </tr>
+
+            <tr>
+        <td>Nota Geral</td>
+        <td style="color:#000000;"><strong>-</strong></td>
+            </tr>
+
+            <tr>
+        <td>Vale a pena?</td>
+        <td style="color:#000000;"><strong>-</strong></td>
+            </tr>
+
+            <tr>
+        <td>Design Geral</td>
+        <td>-</td>
+            </tr>
+
+            <tr>
+        <td>Velocidade do App (variável)</td>
+        <td>-</td>
+            </tr>
+
+          <tr>
+        <td>Integração</td>
+        <td>-</td>
+          </tr>
+
+        <tr>
+        <tr>
+
+            <!-- COMPATIBILIDADE -->
+
+            <tr>
+            <tr>
+                <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                </tr>
+
+                <tr>
+            <td>Mobile App?</td>
+            <td>-</td>
+                </tr>
+  
+                <tr>
+            <td>Plataformas</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Desktop App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Plataformas</td>
+            <td>-</td>
+                </tr>
+
+            <!-- FUNÇÕES -->
+
+            <tr>
+            <tr>
+                <th><span style="font-size: 20px;">Funções</span></th>
+                </tr>
+
+                <tr>
+            <td>É possível escutar em 2º plano?</td>
+            <td>-</td>
+                </tr>
+  
+                <tr>
+            <td>É possível mover o slider de tempo da música?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível pular uma música?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Limite de pulos?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível retroceder uma música?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível baixar músicas?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível escolher a música a ser escutada?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível escutar sua fila em ordem?	</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível escutar sua fila em ordem aleatória?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver MV (Music Video) dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível criar uma playlist?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível acessar o merchan do artista dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver as futuras turnês do artista dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver a letra da música dentro do App?	</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>É possível ver a tradução da letra da música dentro do App?</td>
+            <td>-</td>
+                </tr>
+
+            <!-- ANÚNCIOS -->
+          
+            <tr>
+            <tr>
+                <th><span style="font-size: 20px;">Anúncios</span></th>
+            </tr>
+
+                <tr>
+            <td>Anúncios entre as músicas</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Frequência</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Duração média</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Duração para pular</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio Pop-up</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio interstical</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio após selecionar música</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio de banner</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Anúncio de recompensa</td>
+            <td>-</td>
+                </tr>
+    
+                <tr>
+            <td>Duração dos anúncios de recompensa</td>
+            <td>-</td>
+                </tr>
+
+                <tr>
+            <td>Tipo de anúncio</td>
+            <td>-</td>
+                </tr>
+
+                
+            <!-- FUNÇÕES EXTRAS -->
+          
+            <tr>
+                <tr>
+                    <th><span style="font-size: 20px;">Funções Extras</span></th>
+                </tr>
+    
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                        
+                    <tr>
+                <td>-</td>
+                    </tr>
+                    <tr>
+
+                    <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+                </tr>
+
+                <td style="display: flex; justify-content: center;"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7cIn67LEvk16v6komC8znS?utm_source=generator" width="100%" height="250" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br></td>
+        </table>
+    </div>
+</div>
+
+  <div class="comentario">
+    <p>"O Spotify é um dos aplicativos de streaming de áudio mais populares e preferidos pelo público há muito tempo. Ele oferece planos gratuitos que permitem aos usuários acessar uma grande variedade de músicas, podcasts e playlists, com algumas limitações de recursos e qualidade. No entanto, esses planos gratuitos também apresentam muitas desvantagens que nem sempre são percebidas pelos usuários, mas se torna irritante e inconveniente com o passar do tempo, por isso, o Spotify investe pesadamente na divulgação e na venda de seus planos premium, que prometem uma experiência de streaming superior, sem anúncios, com mais opções de personalização e com maior qualidade de áudio, claro. O Spotify, apesar de tudo, é um ótimo app de streaming quando se trada de seus planos Premium, com recursos brilhantes e úteis."</p>
+  </div>
+
+<!--                                                                                                                                          
+▀███▀   ▀██▀ ▄▄█▀▀██▄ ▀███▀   ▀███▀██▀▀██▀▀██████▀   ▀███▀███▀▀▀██▄███▀▀▀███ 
+  ███   ▄█ ▄██▀    ▀██▄██       █ █▀   ██   ▀███       █   ██    ██ ██    ▀█ 
+   ███ ▄█  ██▀      ▀████       █      ██     ██       █   ██    ██ ██   █   
+    ████   ██        ████       █      ██     ██       █   ██▀▀▀█▄▄ ██████   
+     ██    ██▄      ▄████       █      ██     ██       █   ██    ▀█ ██   █  ▄
+     ██    ▀██▄    ▄██▀██▄     ▄█      ██     ██▄     ▄█   ██    ▄█ ██     ▄█
+   ▄████▄    ▀▀████▀▀   ▀██████▀▀    ▄████▄    ▀██████▀▀ ▄████████▄██████████                                                              
+-->
+
+<h1 style="text-align: center;">
+    <span style="font-size:20px;">Plataforma:</span><br>
+    <span style="color:#ff0000; font-size:40px;">YOUTUBE MUSIC</span><span style="color:#000000; font-size:20px;">(...)</span>
+</h1>
+
+<!-- DIVISÃO: FREE VERS -->
+ <div class="container1">
+  <p class="text">sem observações</p>
+ </div>
+
+
+  <div class="container">
+      <div class="box">
+          <p>YOUTUBE MUSIC<br>(FREE VERS.)</p>
+          <table>
+
+              <!-- GERAIS -->
+
+              <tr>
+              <th><span style="font-size: 20px;">Gerais</span></th>
+              </tr>
+
+              <tr>
+          <td>Nota Geral</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Vale a pena?</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Design Geral</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Velocidade do App (variável)</td>
+          <td>-</td>
+              </tr>
+
+            <tr>
+          <td>Integração</td>
+          <td>-</td>
+            </tr>
+
+      <tr>
+      <tr>
+
+              <!-- COMPATIBILIDADE -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>Mobile App?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Desktop App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- FUNÇÕES -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar em 2º plano?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>É possível mover o slider de tempo da música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível pular uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Limite de pulos?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível retroceder uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível baixar músicas?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escolher a música a ser escutada?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem aleatória?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver MV (Music Video) dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível criar uma playlist?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível acessar o merchan do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver as futuras turnês do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a letra da música dentro do App?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a tradução da letra da música dentro do App?</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- ANÚNCIOS -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Anúncios</span></th>
+              </tr>
+              
+                  <tr>
+              <td>Anúncios entre as músicas</td>
+              <td>-</td>
+                  </tr>
+
+                  <tr>
+              <td>Frequência</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração média</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração para pular</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio Pop-up</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio interstical</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio após selecionar música</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de banner</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de recompensa</td>
+              <td>-</td>
+                  </tr>
+      
+                  <tr>
+              <td>Duração dos anúncios de recompensa</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Tipo de anúncio</td>
+              <td>-</td>
+                  </tr>
+                  
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+  
+              <td style="display: flex; justify-content: center;"><iframe width="100%" height="250" src="https://www.youtube.com/embed/jCzez_q8si0?si=NwIXU-P-6yqehwKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+
+          </table>
+      </div>
+
+<!-- DIVISÃO: PREMIUM VERS -->
+
+  <div class="box">
+      <p>YOUTUBE MUSIC<br>(PREMIUM)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;"><iframe width="100%" height="250" src="https://www.youtube.com/embed/jCzez_q8si0?si=NwIXU-P-6yqehwKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+
+      </table>
+  </div>
+</div>
+
+<div class="comentario">
+  <p>"..."</p>
+</div>
+
+<!--
+                                                                                                           
+      ██     ▀███▀▀▀██▄▀███▀▀▀██▄▀████▀   ▀███▀▀▀███ 
+     ▄██▄      ██   ▀██▄ ██   ▀██▄ ██       ██    ▀█ 
+    ▄█▀██▄     ██   ▄██  ██   ▄██  ██       ██   █  
+   ▄█  ▀██     ███████   ███████   ██       ██████  
+   ████████    ██        ██        ██     ▄ ██   █  ▄ 
+  █▀      ██   ██        ██        ██    ▄█ ██     ▄█ 
+▄███▄   ▄████▄████▄    ▄████▄    ████████████████████ 
+                                                   
+▀████▄     ▄███▀███▀   ▀███▀▄█▀▀▀█▄█████▀ ▄▄█▀▀▀█▄█
+  ████    ████  ██       █ ▄██    ▀█ ██ ▄██▀     ▀█
+  █ ██   ▄█ ██  ██       █ ▀███▄     ██ ██▀       ▀
+  █  ██  █▀ ██  ██       █   ▀█████▄ ██ ██         
+  █  ██▄█▀  ██  ██       █ ▄     ▀██ ██ ██▄        
+  █  ▀██▀   ██  ██▄     ▄█ ██     ██ ██ ▀██▄     ▄▀
+▄███▄ ▀▀  ▄████▄ ▀██████▀▀ █▀█████▀▄████▄ ▀▀█████▀ 
+
+-->
+
+<h1 style="text-align: center;">
+    <span style="font-size:20px;">Plataforma:</span><br>
+    <span style="color:#FB4159; font-size:40px;">APPLE MUSIC</span><span style="color:#000000; font-size:20px;">(...)</span>
+</h1>
+
+<!-- DIVISÃO: MOBILE -->
+ <div class="container1">
+  <p class="text">sem observações</p>
+ </div>
+
+
+  <div class="container">
+      <div class="box">
+          <p>APPLE MUSIC MOBILE<br>(PREMIUM)</p>
+          <table>
+
+              <!-- GERAIS -->
+
+              <tr>
+              <th><span style="font-size: 20px;">Gerais</span></th>
+              </tr>
+
+              <tr>
+          <td>Nota Geral</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Vale a pena?</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Design Geral</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Velocidade do App (variável)</td>
+          <td>-</td>
+              </tr>
+
+            <tr>
+          <td>Integração</td>
+          <td>-</td>
+            </tr>
+
+      <tr>
+      <tr>
+
+              <!-- COMPATIBILIDADE -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>Mobile App?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Desktop App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- FUNÇÕES -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar em 2º plano?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>É possível mover o slider de tempo da música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível pular uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Limite de pulos?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível retroceder uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível baixar músicas?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escolher a música a ser escutada?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem aleatória?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver MV (Music Video) dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível criar uma playlist?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível acessar o merchan do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver as futuras turnês do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a letra da música dentro do App?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a tradução da letra da música dentro do App?</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- ANÚNCIOS -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Anúncios</span></th>
+              </tr>
+              
+                  <tr>
+              <td>Anúncios entre as músicas</td>
+              <td>-</td>
+                  </tr>
+
+                  <tr>
+              <td>Frequência</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração média</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração para pular</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio Pop-up</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio interstical</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio após selecionar música</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de banner</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de recompensa</td>
+              <td>-</td>
+                  </tr>
+      
+                  <tr>
+              <td>Duração dos anúncios de recompensa</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Tipo de anúncio</td>
+              <td>-</td>
+                  </tr>
+                  
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+  
+              <td style="display: flex; justify-content: center;"><iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="250" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/br/album/one-spark/1726087580?i=1726087590"></iframe></td>
+
+          </table>
+      </div>
+
+<!-- DIVISÃO: DESKTOP -->
+
+  <div class="box">
+      <p>APPLE MUSIC FOR DESKTOP<br>(PREMIUM)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;"><iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="250" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/br/album/one-spark/1726087580?i=1726087590"></iframe></td>
+
+      </table>
+  </div>
+</div>
+
+<div class="comentario">
+  <p>"..."</p>
+</div>
+
+<!--
+                                                             
+▀███▀▀▀██▄ ▀███▀▀▀███▀███▀▀▀██████▀▀▀██████▀▀▀███▀███▀▀▀██▄  
+  ██    ▀██▄ ██    ▀█  ██    ▀██▀   ███  ██    ▀█  ██   ▀██▄ 
+  ██     ▀██ ██   █    ██   █  ▀   ███   ██   █    ██   ▄██  
+  ██      ██ ██████    ██████     ███    ██████    ███████   
+  ██     ▄██ ██   █  ▄ ██   █  ▄ ███   ▄ ██   █  ▄ ██  ██▄   
+  ██    ▄██▀ ██     ▄█ ██     ▄████   ▄█ ██     ▄█ ██   ▀██▄ 
+▄████████▀ ▄██████████████████████████████████████████▄ ▄███▄
+                                                         
+-->
+
+<h1 style="text-align: center;">
+    <span style="font-size:20px;">Plataforma:</span><br>
+    <span style="color:#A237FF; font-size:40px;">DEEZER</span><span style="color:#000000; font-size:20px;">(...)</span>
+</h1>
+
+<!-- DIVISÃO: FREE -->
+ <div class="container1">
+  <p class="text">sem observações</p>
+ </div>
+
+
+  <div class="container">
+      <div class="box">
+          <p>DEEEZER<br>(FREE VERS.)</p>
+          <table>
+
+              <!-- GERAIS -->
+
+              <tr>
+              <th><span style="font-size: 20px;">Gerais</span></th>
+              </tr>
+
+              <tr>
+          <td>Nota Geral</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Vale a pena?</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Design Geral</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Velocidade do App (variável)</td>
+          <td>-</td>
+              </tr>
+
+            <tr>
+          <td>Integração</td>
+          <td>-</td>
+            </tr>
+
+      <tr>
+      <tr>
+
+              <!-- COMPATIBILIDADE -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>Mobile App?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Desktop App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- FUNÇÕES -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar em 2º plano?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>É possível mover o slider de tempo da música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível pular uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Limite de pulos?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível retroceder uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível baixar músicas?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escolher a música a ser escutada?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem aleatória?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver MV (Music Video) dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível criar uma playlist?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível acessar o merchan do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver as futuras turnês do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a letra da música dentro do App?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a tradução da letra da música dentro do App?</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- ANÚNCIOS -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Anúncios</span></th>
+              </tr>
+              
+                  <tr>
+              <td>Anúncios entre as músicas</td>
+              <td>-</td>
+                  </tr>
+
+                  <tr>
+              <td>Frequência</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração média</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração para pular</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio Pop-up</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio interstical</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio após selecionar música</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de banner</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de recompensa</td>
+              <td>-</td>
+                  </tr>
+      
+                  <tr>
+              <td>Duração dos anúncios de recompensa</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Tipo de anúncio</td>
+              <td>-</td>
+                  </tr>
+                  
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+  
+              <td style="display: flex; justify-content: center;"><iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/track/2671408412" width="100%" height="250" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe></td>
+
+          </table>
+      </div>
+
+<!-- DIVISÃO: PREMIUM -->
+
+  <div class="box">
+      <p>DEEZER<br>(PREMIUM)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;"><iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/track/2671408412" width="100%" height="250" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe></td>
+
+      </table>
+  </div>
+</div>
+
+<div class="comentario">
+  <p>"..."</p>
+</div>
+
+<!--
+                                                  
+███▀▀██▀▀███████▀███▀▀▀██▄       ██     ▀████▀    
+█▀   ██   ▀█ ██   ██    ▀██▄    ▄██▄      ██      
+     ██      ██   ██     ▀██   ▄█▀██▄     ██      
+     ██      ██   ██      ██  ▄█  ▀██     ██      
+     ██      ██   ██     ▄██  ████████    ██     ▄
+     ██      ██   ██    ▄██▀ █▀      ██   ██    ▄█
+   ▄████▄  ▄████▄████████▀ ▄███▄   ▄████▄█████████
+                                                  
+-->
+
+<h1 style="text-align: center;">
+    <span style="font-size:20px;">Plataforma:</span><br>
+    <span style="color:#000000; font-size:40px;">TIDAL</span><span style="color:#000000; font-size:20px;">(...)</span>
+</h1>
+
+<!-- DIVISÃO: MOBILE -->
+ <div class="container1">
+  <p class="text">sem observações</p>
+ </div>
+
+
+  <div class="container">
+      <div class="box">
+          <p>TIDAL MOBILE<br>(PREMIUM)</p>
+          <table>
+
+              <!-- GERAIS -->
+
+              <tr>
+              <th><span style="font-size: 20px;">Gerais</span></th>
+              </tr>
+
+              <tr>
+          <td>Nota Geral</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Vale a pena?</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Design Geral</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Velocidade do App (variável)</td>
+          <td>-</td>
+              </tr>
+
+            <tr>
+          <td>Integração</td>
+          <td>-</td>
+            </tr>
+
+      <tr>
+      <tr>
+
+              <!-- COMPATIBILIDADE -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>Mobile App?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Desktop App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- FUNÇÕES -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar em 2º plano?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>É possível mover o slider de tempo da música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível pular uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Limite de pulos?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível retroceder uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível baixar músicas?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escolher a música a ser escutada?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem aleatória?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver MV (Music Video) dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível criar uma playlist?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível acessar o merchan do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver as futuras turnês do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a letra da música dentro do App?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a tradução da letra da música dentro do App?</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- ANÚNCIOS -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Anúncios</span></th>
+              </tr>
+              
+                  <tr>
+              <td>Anúncios entre as músicas</td>
+              <td>-</td>
+                  </tr>
+
+                  <tr>
+              <td>Frequência</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração média</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração para pular</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio Pop-up</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio interstical</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio após selecionar música</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de banner</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de recompensa</td>
+              <td>-</td>
+                  </tr>
+      
+                  <tr>
+              <td>Duração dos anúncios de recompensa</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Tipo de anúncio</td>
+              <td>-</td>
+                  </tr>
+                  
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+  
+              <td style="display: flex; justify-content: center;"><div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/tracks/346629411?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div></td>
+
+          </table>
+      </div>
+
+<!-- DIVISÃO: DESKTOP -->
+
+  <div class="box">
+      <p>TIDAL FOR DESKTOP<br>(PREMIUM)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;"><div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/tracks/346629411?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div></td>
+
+      </table>
+  </div>
+</div>
+
+<div class="comentario">
+  <p>"..."</p>
+</div>
+
+<!--
+                                                       
+ ▄█▀▀▀█▄█ ▄▄█▀▀██▄ ▀███▀   ▀███▀███▄   ▀███▀███▀▀▀██▄  
+▄██    ▀███▀    ▀██▄██       █   ███▄    █   ██    ▀██▄
+▀███▄   ██▀      ▀████       █   █ ███   █   ██     ▀██
+  ▀█████▄█        ████       █   █  ▀██▄ █   ██      ██
+▄     ▀███▄      ▄████       █   █   ▀██▄█   ██     ▄██
+██     ████▄    ▄██▀██▄     ▄█   █     ███   ██    ▄██▀
+█▀█████▀  ▀▀████▀▀   ▀██████▀▀ ▄███▄    ██ ▄████████▀  
+                                              
+  ▄▄█▀▀▀█▄█████▀     ▄▄█▀▀██▄ ▀███▀   ▀███▀███▀▀▀██▄  
+▄██▀     ▀█ ██     ▄██▀    ▀██▄██       █   ██    ▀██▄
+██▀       ▀ ██     ██▀      ▀████       █   ██     ▀██
+██          ██     ██        ████       █   ██      ██
+██▄         ██     ▄█▄      ▄████       █   ██     ▄██
+▀██▄     ▄▀ ██    ▄███▄    ▄██▀██▄     ▄█   ██    ▄██▀
+  ▀▀█████▀██████████ ▀▀████▀▀   ▀██████▀▀ ▄████████▀  
+                                                                                                                                                                                                                     
+-->
+
+<h1 style="text-align: center;">
+    <span style="font-size:20px;">Plataforma:</span><br>
+    <span style="color:#FF770A; font-size:40px;">SOUNDCLOUD</span><span style="color:#000000; font-size:20px;">(...)</span>
+</h1>
+
+<!-- DIVISÃO: FREE -->
+ <div class="container1">
+  <p class="text">sem observações</p>
+ </div>
+
+
+  <div class="container">
+      <div class="box">
+          <p>SOUNDCLOUD<br>(FREE VERS.)</p>
+          <table>
+
+              <!-- GERAIS -->
+
+              <tr>
+              <th><span style="font-size: 20px;">Gerais</span></th>
+              </tr>
+
+              <tr>
+          <td>Nota Geral</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Vale a pena?</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Design Geral</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Velocidade do App (variável)</td>
+          <td>-</td>
+              </tr>
+
+            <tr>
+          <td>Integração</td>
+          <td>-</td>
+            </tr>
+
+      <tr>
+      <tr>
+
+              <!-- COMPATIBILIDADE -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>Mobile App?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Desktop App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- FUNÇÕES -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar em 2º plano?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>É possível mover o slider de tempo da música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível pular uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Limite de pulos?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível retroceder uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível baixar músicas?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escolher a música a ser escutada?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem aleatória?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver MV (Music Video) dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível criar uma playlist?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível acessar o merchan do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver as futuras turnês do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a letra da música dentro do App?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a tradução da letra da música dentro do App?</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- ANÚNCIOS -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Anúncios</span></th>
+              </tr>
+              
+                  <tr>
+              <td>Anúncios entre as músicas</td>
+              <td>-</td>
+                  </tr>
+
+                  <tr>
+              <td>Frequência</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração média</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração para pular</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio Pop-up</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio interstical</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio após selecionar música</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de banner</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de recompensa</td>
+              <td>-</td>
+                  </tr>
+      
+                  <tr>
+              <td>Duração dos anúncios de recompensa</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Tipo de anúncio</td>
+              <td>-</td>
+                  </tr>
+                  
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+  
+              <td style="display: flex; justify-content: center;"><iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1746834291&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/twice-57013" title="TWICE" target="_blank" style="color: #cccccc; text-decoration: none;"></a> · <a href="https://soundcloud.com/twice-57013/one-spark" title="ONE SPARK" target="_blank" style="color: #cccccc; text-decoration: none;"></a></div></td>
+
+          </table>
+      </div>
+
+<!-- DIVISÃO: PREMIUM -->
+
+  <div class="box">
+      <p>SOUNDCLOUD<br>(PREMIUM)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 2</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;"><iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1746834291&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/twice-57013" title="TWICE" target="_blank" style="color: #cccccc; text-decoration: none;"></a> · <a href="https://soundcloud.com/twice-57013/one-spark" title="ONE SPARK" target="_blank" style="color: #cccccc; text-decoration: none;"></a></div></td>
+
+      </table>
+  </div>
+</div>
+
+<div class="comentario">
+  <p>"..."</p>
+</div>
+
+<!--
+                                                               
+███▀▀██▀▀███████▀████▀ ▀███▀███▀▀██▀▀███ ▄▄█▀▀██▄ ▀████▀ ▀███▀ 
+█▀   ██   ▀█ ██   ██   ▄█▀  █▀   ██   ▀███▀    ▀██▄ ██   ▄█▀   
+     ██      ██   ██ ▄█▀         ██    ██▀      ▀██ ██ ▄█▀     
+     ██      ██   █████▄         ██    ██        ██ █████▄     
+     ██      ██   ██  ███        ██    ██▄      ▄██ ██  ███    
+     ██      ██   ██   ▀██▄      ██    ▀██▄    ▄██▀ ██   ▀██▄  
+   ▄████▄  ▄████▄████▄   ███▄  ▄████▄    ▀▀████▀▀ ▄████▄   ███▄
+                                                   
+▀████▄     ▄███▀███▀   ▀███▀▄█▀▀▀█▄█████▀ ▄▄█▀▀▀█▄█
+  ████    ████  ██       █ ▄██    ▀█ ██ ▄██▀     ▀█
+  █ ██   ▄█ ██  ██       █ ▀███▄     ██ ██▀       ▀
+  █  ██  █▀ ██  ██       █   ▀█████▄ ██ ██         
+  █  ██▄█▀  ██  ██       █ ▄     ▀██ ██ ██▄        
+  █  ▀██▀   ██  ██▄     ▄█ ██     ██ ██ ▀██▄     ▄▀
+▄███▄ ▀▀  ▄████▄ ▀██████▀▀ █▀█████▀▄████▄ ▀▀█████▀ 
+
+-->
+
+<h1 style="text-align: center;">
+    <span style="font-size:20px;">Plataforma:</span><br>
+    <span style="color:#130B18; font-size:40px;">TIKTOK MUSIC</span><span style="color:#000000; font-size:20px;">(...)</span>
+</h1>
+
+<!-- DIVISÃO: FREE -->
+ <div class="container1">
+  <p class="text">sem observações</p>
+ </div>
+
+
+  <div class="container">
+      <div class="box">
+          <p>TIKTOK MUSIC<br>(FREE VERS.)</p>
+          <table>
+
+              <!-- GERAIS -->
+
+              <tr>
+              <th><span style="font-size: 20px;">Gerais</span></th>
+              </tr>
+
+              <tr>
+          <td>Nota Geral</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Vale a pena?</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Design Geral</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Velocidade do App (variável)</td>
+          <td>-</td>
+              </tr>
+
+            <tr>
+          <td>Integração</td>
+          <td>-</td>
+            </tr>
+
+      <tr>
+      <tr>
+
+              <!-- COMPATIBILIDADE -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>Mobile App?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Desktop App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- FUNÇÕES -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar em 2º plano?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>É possível mover o slider de tempo da música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível pular uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Limite de pulos?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível retroceder uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível baixar músicas?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escolher a música a ser escutada?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem aleatória?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver MV (Music Video) dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível criar uma playlist?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível acessar o merchan do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver as futuras turnês do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a letra da música dentro do App?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a tradução da letra da música dentro do App?</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- ANÚNCIOS -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Anúncios</span></th>
+              </tr>
+              
+                  <tr>
+              <td>Anúncios entre as músicas</td>
+              <td>-</td>
+                  </tr>
+
+                  <tr>
+              <td>Frequência</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração média</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração para pular</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio Pop-up</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio interstical</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio após selecionar música</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de banner</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de recompensa</td>
+              <td>-</td>
+                  </tr>
+      
+                  <tr>
+              <td>Duração dos anúncios de recompensa</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Tipo de anúncio</td>
+              <td>-</td>
+                  </tr>
+                  
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+  
+              <td style="display: flex; justify-content: center;">...</td>
+
+          </table>
+      </div>
+
+<!-- DIVISÃO: PREMIUM -->
+
+  <div class="box">
+      <p>TIKTOK MUSIC<br>(PREMIUM)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 2</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;">...</td>
+
+      </table>
+  </div>
+</div>
+
+<div class="comentario">
+  <p>"..."</p>
+</div>
+
+<!--
+                                                                         
+      ██     ▀████▄     ▄███▀     ██     ███▀▀▀███ ▄▄█▀▀██▄ ▀███▄   ▀███▀
+     ▄██▄      ████    ████      ▄██▄    █▀   ███▄██▀    ▀██▄ ███▄    █  
+    ▄█▀██▄     █ ██   ▄█ ██     ▄█▀██▄   ▀   ███ ██▀      ▀██ █ ███   █  
+   ▄█  ▀██     █  ██  █▀ ██    ▄█  ▀██      ███  ██        ██ █  ▀██▄ █  
+   ████████    █  ██▄█▀  ██    ████████    ███   ▄█▄      ▄██ █   ▀██▄█  
+  █▀      ██   █  ▀██▀   ██   █▀      ██  ███   ▄███▄    ▄██▀ █     ███  
+▄███▄   ▄████▄███▄ ▀▀  ▄████▄███▄   ▄████▄████████ ▀▀████▀▀ ▄███▄    ██  
+                                                                                                                           
+▀████▄     ▄███▀███▀   ▀███▀▄█▀▀▀█▄█████▀ ▄▄█▀▀▀█▄█
+  ████    ████  ██       █ ▄██    ▀█ ██ ▄██▀     ▀█
+  █ ██   ▄█ ██  ██       █ ▀███▄     ██ ██▀       ▀
+  █  ██  █▀ ██  ██       █   ▀█████▄ ██ ██         
+  █  ██▄█▀  ██  ██       █ ▄     ▀██ ██ ██▄        
+  █  ▀██▀   ██  ██▄     ▄█ ██     ██ ██ ▀██▄     ▄▀
+▄███▄ ▀▀  ▄████▄ ▀██████▀▀ █▀█████▀▄████▄ ▀▀█████▀ 
+
+-->
+
+<h1 style="text-align: center;">
+    <span style="font-size:20px;">Plataforma:</span><br>
+    <span style="color:#229ACA; font-size:40px;">AMAZON MUSIC</span><span style="color:#000000; font-size:20px;">(...)</span>
+</h1>
+
+<!-- DIVISÃO: MOBILE FREE -->
+ <div class="container1">
+  <p class="text">sem observações</p>
+ </div>
+
+
+  <div class="container">
+      <div class="box">
+          <p>AMAZON MUSIC MOBILE<br>(FREE VERS.)</p>
+          <table>
+
+              <!-- GERAIS -->
+
+              <tr>
+              <th><span style="font-size: 20px;">Gerais</span></th>
+              </tr>
+
+              <tr>
+          <td>Nota Geral</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Vale a pena?</td>
+          <td style="color:#000000;"><strong>-</strong></td>
+              </tr>
+
+              <tr>
+          <td>Design Geral</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Velocidade do App (variável)</td>
+          <td>-</td>
+              </tr>
+
+            <tr>
+          <td>Integração</td>
+          <td>-</td>
+            </tr>
+
+      <tr>
+      <tr>
+
+              <!-- COMPATIBILIDADE -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Compatibilidade</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>Mobile App?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Desktop App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Plataformas</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- FUNÇÕES -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções</span></th>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar em 2º plano?</td>
+              <td>-</td>
+                  </tr>
+    
+                  <tr>
+              <td>É possível mover o slider de tempo da música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível pular uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Limite de pulos?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível retroceder uma música?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível baixar músicas?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escolher a música a ser escutada?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível escutar sua fila em ordem aleatória?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver MV (Music Video) dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível criar uma playlist?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível acessar o merchan do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver as futuras turnês do artista dentro do App?</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a letra da música dentro do App?	</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>É possível ver a tradução da letra da música dentro do App?</td>
+              <td>-</td>
+                  </tr>
+
+              <!-- ANÚNCIOS -->
+
+              <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Anúncios</span></th>
+              </tr>
+              
+                  <tr>
+              <td>Anúncios entre as músicas</td>
+              <td>-</td>
+                  </tr>
+
+                  <tr>
+              <td>Frequência</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração média</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Duração para pular</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio Pop-up</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio interstical</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio após selecionar música</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de banner</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Anúncio de recompensa</td>
+              <td>-</td>
+                  </tr>
+      
+                  <tr>
+              <td>Duração dos anúncios de recompensa</td>
+              <td>-</td>
+                  </tr>
+  
+                  <tr>
+              <td>Tipo de anúncio</td>
+              <td>-</td>
+                  </tr>
+                  
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+  
+              <td style="display: flex; justify-content: center;"><iframe id='AmazonMusicEmbedB0CT14DZ97' src='https://music.amazon.com.br/embed/B0CT14DZ97/?id=RDJMfxkDDK&marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR' width='100%' height='400px' frameBorder='0' style='border-radius:20px;max-width:500px'></iframe></td>
+
+          </table>
+      </div>
+
+<!-- DIVISÃO: DESKTOP FREE -->
+
+  <div class="box">
+      <p>AMAZON MUSIC FOR DESKTOP<br>(FREE VERS.)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+
+              <tr>
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;"><iframe id='AmazonMusicEmbedB0CT14DZ97' src='https://music.amazon.com.br/embed/B0CT14DZ97/?id=RDJMfxkDDK&marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR' width='100%' height='400px' frameBorder='0' style='border-radius:20px;max-width:500px'></iframe></td>
+
+      </table>
+  </div>
+
+<!-- DIVISÃO: PREMIUM -->
+
+  <div class="box">
+      <p>AMAZON MUSIC PREMIUM<br>(MOBILE/DESKTOP)</p>
+      <table>
+
+          <!-- GERAIS -->
+
+          <tr>
+          <th><span style="font-size: 20px;">Gerais</span></th>
+          </tr>
+
+          <tr>
+      <td>Nota Geral</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Vale a pena?</td>
+      <td style="color:#000000;"><strong>-</strong></td>
+          </tr>
+
+          <tr>
+      <td>Design Geral</td>
+      <td>-</td>
+          </tr>
+
+          <tr>
+      <td>Velocidade do App (variável)</td>
+      <td>-</td>
+          </tr>
+
+        <tr>
+      <td>Integração</td>
+      <td>-</td>
+        </tr>
+
+      <tr>
+      <tr>
+
+          <!-- COMPATIBILIDADE -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Compatibilidade</span></th>
+              </tr>
+
+              <tr>
+          <td>Mobile App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Desktop App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Plataformas</td>
+          <td>-</td>
+              </tr>
+
+          <!-- FUNÇÕES -->
+
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Funções</span></th>
+              </tr>
+
+              <tr>
+          <td>É possível escutar em 2º plano?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível mover o slider de tempo da música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível pular uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Limite de pulos?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível retroceder uma música?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível baixar músicas?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escolher a música a ser escutada?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível escutar sua fila em ordem aleatória?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver MV (Music Video) dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível criar uma playlist?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível acessar o merchan do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver as futuras turnês do artista dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a letra da música dentro do App?	</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>É possível ver a tradução da letra da música dentro do App?</td>
+          <td>-</td>
+              </tr>
+
+          <!-- ANÚNCIOS -->
+        
+          <tr>
+          <tr>
+              <th><span style="font-size: 20px;">Anúncios</span></th>
+          </tr>
+
+              <tr>
+          <td>Anúncios entre as músicas</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Frequência</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração média</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Duração para pular</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio Pop-up</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio interstical</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio após selecionar música</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de banner</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Anúncio de recompensa</td>
+          <td>-</td>
+              </tr>
+  
+              <tr>
+          <td>Duração dos anúncios de recompensa</td>
+          <td>-</td>
+              </tr>
+
+              <tr>
+          <td>Tipo de anúncio</td>
+          <td>-</td>
+              </tr>
+
+              
+          <!-- FUNÇÕES EXTRAS -->
+        
+          <tr>
+              <tr>
+                  <th><span style="font-size: 20px;">Funções Extras</span></th>
+              </tr>
+  
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                      
+                  <tr>
+              <td>-</td>
+                  </tr>
+                  <tr>
+
+                  <th><span style="font-size: 20px;">Emblemed - 1</span></th>
+              </tr>
+
+              <td style="display: flex; justify-content: center;"><iframe id='AmazonMusicEmbedB0CT14DZ97' src='https://music.amazon.com.br/embed/B0CT14DZ97/?id=RDJMfxkDDK&marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR' width='100%' height='400px' frameBorder='0' style='border-radius:20px;max-width:500px'></iframe></td>
+      </table>
+  </div>
+</div>
+
+<div class="comentario">
+  <p>"..."</p>
+</div>
+
+
+</head>
+</html>
